@@ -1,2 +1,2 @@
 # boundry-fill
-algoritma boundry-fill untuk mata kuliah Grafika Komputer Terapan 
+algoritma boundry-fill untuk mata kuliah Grafika Komputer Terapan menggunakan bahasa pemrograman python
